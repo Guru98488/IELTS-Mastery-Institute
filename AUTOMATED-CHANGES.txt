@@ -1,0 +1,5 @@
+Changes made automatically:
+- Added assets/css/colors.css with basic color variables and a CSS 3D cube component.
+- Added assets/js/validation.js that provides site-wide client-side form validation.
+- Injected references to these assets into all HTML files found in the site root and subfolders.
+- Inserted a 3D cube demo block into index.html if present (or first HTML file found).
